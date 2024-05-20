@@ -53,3 +53,7 @@ Welcome to Find My Lawyer, a web platform designed to democratize access to lega
    ```bash
    git clone https://github.com/yourusername/find-my-lawyer.git
    cd find-my-lawyer
+npm install
+npm run client
+
+Replace placeholders like `your_mongodb_uri`, `your_jwt_secret`, `your_port_number`, `path/to/logo.png`, and `k.l.ridmashehan@gmail.com` with your actual project details. This template provides a clear and structured overview of your project, making it easier for others to understand, use, and contribute to your repository.
